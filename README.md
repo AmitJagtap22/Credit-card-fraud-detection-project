@@ -7,4 +7,4 @@ Each card has a unique card number which is very important. Its security mainly 
 
 Credit card fraud is expanding heavily because fraud financial loss is increasing drastically. Multiple data mining and statistical techniques are used to catch fraud. Therefore the detection of fraud using efficient and secured methods are very important.
 
-Use Machine Learning models on available credit card data to determine detection of fraud
+Use Machine Learning models on available credit card data to determine which model is best applicable here for detection of fraud
